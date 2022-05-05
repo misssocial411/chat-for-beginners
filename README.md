@@ -1,2 +1,3 @@
-# chat-for-beginners
-learn to code and share tips and tricks
+# for-beginners
+learning to code and using this repo to share tips and tricks
+renamed this repo to see how changes take affect
